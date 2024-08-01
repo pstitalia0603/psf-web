@@ -14,6 +14,7 @@
     "@astrojs/node": "^8.3.2",
     "@astrojs/starlight": "^0.25.3",
     "astro": "^4.10.2",
+    "sharp": "^0.33.4",
     "starlight-obsidian": "^0.4.6",
     "typescript": "^5.5.4"
   }
